@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/Wajahat_Ali_YT" target="blank"><img src="https://img.shields.io/twitter/follow/wajahat?logo=twitter&style=for-the-badge" alt="wajahat" /></a> </p>
 
-- 🌱 I’m currently learning **Go/Golang**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/webcog](https://github.com/webcog)
 
-- 💬 Ask me about FullStack SoftwareEngineer **React , Next js ,  Tauri, Python, **,
+- 💬 Ask me about FullStack SoftwareEngineer **React , Next js ,  Tauri, Python**
 
-- 📫 How to reach me *wajahatmurtaza144@gmail.com**
+- 📫 How to reach me **wajahatmurtaza144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
