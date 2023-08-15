@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm HtetMyat</h1>
-<h3 align="center">A passionate FullStack Software Engineer From Myammar</h3>
+<h1 align="center">Hi 👋, I'm Wajahat Murtaza</h1>
+<h3 align="center">A passionate FullStack Software Engineer From Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyatmyat4&label=Profile%20views&color=0e75b6&style=flat" alt="hyatmyat4" /> </p>
@@ -8,18 +8,17 @@
 
 - 🌱 I’m currently learning **Go/Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HyatMyat4?tab=repositories](https://github.com/HyatMyat4?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/webcog](https://github.com/webcog)
 
-- 💬 Ask me about FullStack SoftwareEngineer **React , Next js ,  Tauri**
+- 💬 Ask me about FullStack SoftwareEngineer **React , Next js ,  Tauri, Python, **,
 
-- 📫 How to reach me **hyatmyat79@gmail.com**
+- 📫 How to reach me *wajahatmurtaza144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/myathyat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myathyat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/htet-myat-14089322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/htet-myat-14089322a/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hyat.myat.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hyat.myat.9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wajahatmurtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahatmurtaza/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/wajahat.murtaza.127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wajahat.murtaza.127/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@webcog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@webcog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
