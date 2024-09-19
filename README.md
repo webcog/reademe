@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webcog&label=Profile%20views&color=0e75b6&style=flat" alt="webcog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webcog" alt="webcog" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/wajahat_ali_yt" target="blank"><img src="https://img.shields.io/twitter/follow/wajahat_ali_yt?logo=twitter&style=for-the-badge" alt="wajahat_ali_yt" /></a> </p>
 
 - 🔭 I’m currently working as [Freelancer](https://www.fiverr.com/wajahat_murtaza?public_mode=true)
@@ -39,8 +37,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/webcog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="webcog" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcog&show_icons=true&locale=en&layout=compact" alt="webcog" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webcog&show_icons=true&locale=en" alt="webcog" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webcog&" alt="webcog" /></p>
