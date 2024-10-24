@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wajahat.webcog@gmail.com**
 
-- 📄 Know about my experiences [https://wajahat.webcog.vercel.app/](https://wajahat.webcog.vercel.app/)
+- 📄 Know about my experiences [My Portfolio](https://wajahatportfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I am Robot🤖 who Love Coding 20/7**
 
