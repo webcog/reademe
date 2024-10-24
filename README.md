@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 Some of my projects are available at [https://wajahat.webcog.vercel.app/](https://wajahat.webcog.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://wajahatportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://programingcode.com/](https://programingcode.com/)
+- 📝 I upload coding tutorial's on [Webcog](https://youtube.com/@webcog)
 
 - 💬 Ask me about **any thing regarding to Coding**
 
