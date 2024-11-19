@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/19641208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19641208" height="30" width="40" /></a>
 <a href="https://fb.com/wajahat.murtaza.127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wajahat.murtaza.127" height="30" width="40" /></a>
 <a href="https://instagram.com/webcog.trainings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webcog.trainings" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/webcog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcog" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@webcog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
