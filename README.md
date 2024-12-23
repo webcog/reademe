@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wajahat MUrtaza 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=webcog-pk.webcog-pk&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Pakistan </h3>
 
 ❤️ I prefer Next JS on frontend and Django with PostgreSQL and/or MongoDB and/or MySQL on backend
