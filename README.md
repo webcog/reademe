@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wajahat MUrtaza 👋 </h1>
+<h1 align="center">Hi, I'm Wajahat Murtaza 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=webcog-pk.webcog-pk&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Pakistan </h3>
 
