@@ -101,9 +101,9 @@
 ## My Journey
 <div>
   
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=webcog-pk&show_icons=true&theme=onedark">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=webcog-pk&layout=compact&theme=onedark" />
-  <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=webcog-pk&show_icons=true&theme=onedark">
+  <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=webcog-pk&layout=compact&theme=onedark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github">
   
 </div>
 
