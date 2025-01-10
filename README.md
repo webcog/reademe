@@ -103,8 +103,7 @@
   
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=webcog-pk&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=webcog-pk&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=webcog-pk&theme=onedark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github">
   
 </div>
 
