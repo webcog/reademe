@@ -100,8 +100,8 @@
 
 ## My Journey
 <div>
-  
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=webcog-pk&show_icons=true&theme=onedark">
+
+  <img width="400px" alt="webcog-pk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/webcog-pk?cardType=level&theme=onedark&preferLogin=false" />
   <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=webcog-pk&layout=compact&theme=onedark" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github">
   
